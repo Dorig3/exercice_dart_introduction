@@ -1,0 +1,25 @@
+ex04
+4/20
+
+ex04_1
+dr: la prochaine fois, d'autres changements s'il vous plaît
+
+ex04_2
+0/4
+(-4) dr: pas fait
+
+ex04_3
+0/4
+ex04q3.dart is not a valid UTF-8 script
+(-4) dr: erreur d'exécution
+
+ex04_4
+0/4
+(-4) dr: erreur de syntaxe (couleur rouge)
+
+ex04_5
+0/4
+Breaking on exception: object of type TypeError
+Unhandled exception:
+type 'String' is not a subtype of type 'num' of 'other'.
+(-4) dr: erreur d'exécution
